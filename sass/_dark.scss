@@ -60,3 +60,12 @@
 .dark #backtop{
     box-shadow: 0px 0px 15px 5px var.$primary-color;
 }
+.dark .open{
+  color: var.$white;
+}
+.dark #navbar-responsive{
+  background-color: #000;
+}
+.dark .close {
+  color: var.$white;
+}

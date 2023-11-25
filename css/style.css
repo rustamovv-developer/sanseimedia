@@ -114,6 +114,18 @@
           box-shadow: 0px 0px 15px 5px #CB1D95;
 }
 
+.dark .open {
+  color: #FFFFFF;
+}
+
+.dark #navbar-responsive {
+  background-color: #000;
+}
+
+.dark .close {
+  color: #FFFFFF;
+}
+
 * {
   margin: 0;
   padding: 0;
